@@ -1,3 +1,3 @@
 a=20
-b=10
+b=hi
 print(a+b)
